@@ -8,7 +8,7 @@
 
 ### Overview
 
-CenturyLink [Cloud Application Manager's](https://www.ctl.io/cloud-application-manager/) Cloud Optimization offers [consolidated billing](partner-cloud-integration-consolidated-billing.md)to make payments easy. Part of the consolidated billing involves CenturyLink's strategy for billing Amazon Web Services [Reserved Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html).
+CenturyLink [Cloud Application Manager's](https://www.ctl.io/cloud-application-manager/) Cloud Optimization offers [consolidated billing] (partner-cloud-integration-consolidated-billing.md)to make payments easy. Part of the consolidated billing involves CenturyLink's strategy for billing Amazon Web Services [Reserved Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html).
 
 
 ### Audience
@@ -74,6 +74,6 @@ Line item description on your bill: Integrated, AWS Reserve Instances - SaaS
 
 ### Contacting Cloud Application Manager Support
 
-We’re sorry you’re having an issue in [Cloud Application Manager](https://www.ctl.io/cloud-application-manager/). Please review the [troubleshooting tips](../Troubleshooting/troubleshooting-tips.md), or contact [Cloud Application Manager support](mailto:incident@CenturyLink.com) with details and screenshots where possible.
+If you require support for [Cloud Application Manager](https://www.ctl.io/cloud-application-manager/), please review the [troubleshooting tips](../Troubleshooting/troubleshooting-tips.md), or contact [Cloud Application Manager support](mailto:incident@CenturyLink.com) with details and screenshots where possible.
 
 For issues related to API calls, send the request body along with details related to the issue.
